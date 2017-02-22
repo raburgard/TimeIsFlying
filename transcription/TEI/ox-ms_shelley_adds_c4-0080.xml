@@ -5,4 +5,110 @@
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0080">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0080.jp2"/>
     
+    <zone type="pagination">
+        <line>36</line>
+    </zone>
+    
+    <zone type="library">
+        <line>24</line>
+    </zone>
+    
+    <zone type="main">
+        <line>In my <mod>
+            <del rend="strikethrough">weak</del>
+            <add place="superliner">faint</add>
+            </mod> heart, I dare not <mod>
+            <del rend="strikethrough">talk</del>
+            </mod> speak
+        </line>
+        
+        <line><mod>
+            <del rend="strikethrough">Tho</del>
+            </mod> My thoughts; but thus disturbed &amp; weak
+        </line>
+        
+        <line>I sat and watched the vessels glide</line>
+        
+        <line>Along the ocean bright &amp; wide</line>
+        
+        <line><mod>
+            <del rend="strikethrough">Like then; its </del>
+            <add place="superlinear">our</add>
+            <del rend="strikethrough">of an element</del>
+            </mod></line>
+        
+        <line><mod>
+            <del rend="strikethrough">
+                <unclear reason="illegible" extent="6" unit="chars"></unclear>
+                <unclear reason="illegible" extent="4" unit="chars"></unclear>
+            </del>
+            </mod></line>
+        
+        <line>Like spirit winged chariots sent</line>
+        
+        <line>O'er some <mod>
+            <del rend="strikethrough">dimmer</del>
+            <add place="superlinear">serenest</add>
+            </mod> element</line>
+        
+        <line>For ministrations strange &amp; far;</line>
+        
+        <line>As if to some Elysian star</line>
+        
+        <line>They <mod>
+            <del rend="strikethrough">sailed for some disc</del>
+            <add place="sublinear">sailed for drink to medicine</add>
+            </mod></line>
+        
+        <line>Such sweet &amp; bitter pain as mine.</line>
+        
+        <line><mod>
+            <del rend="strikethrough">I saw the dark rocks</del>
+            </mod></line>
+        
+        <line><mod>
+            <del rend="strikethrough">I watched the dark rocks 
+                <unclear reason="illegible" extent="5" unit="chars"></unclear>
+                &amp; yawn</del>
+            </mod></line>
+        
+        <line>And the wind that <mod>
+            <del rend="strikethrough">for</del>
+            </mod> winged their flight</line>
+        
+        <line>From the land came fresh &amp; light</line>
+        
+        <line><mod>
+            <del rend="strikethrough">Is 
+                <del rend="strikethrough">on</del>
+                 that on the sister sand</del>
+            </mod></line>
+        
+        <line><mod>
+            <del rend="strikethrough">Which 
+                <unclear reason="illegible" extent="5" unit="chars"></unclear>
+                sea &amp; land</del>
+            </mod></line>
+        
+        <line><mod>
+            <del rend="strikethrough">
+                <del rend="strikethrough">Why</del>
+                <add place="superlinear">Like when</add>
+                 a thread of moonlight
+                <del rend="strikethrough">lay</del>
+            </del>
+            </mod></line>
+        
+        <line><mod>
+            <del rend="strikethrough">
+                <del rend="strikethrough">When</del>
+                 In the 
+                <del rend="strikethrough">disentangled</del>
+                <add place="sublinear"><unclear reason="illegible" extent="5" unit="chars"></unclear></add>
+                 spring</del>
+            </mod></line>
+            
+        
+    </zone>
+    
 </surface>
