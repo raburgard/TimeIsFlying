@@ -4,10 +4,12 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="ox-ms_shelley_adds_c4-0078" ulx="0" uly="0" lrx="4966" lry="7248">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0078.jp2"/>
-    
-</surface>
-<add place="superlinear">fair coquette of Heaven,</add>
-<line>Bright wanderer<del rend="strikethrough"> ivory change</del></line>
+  
+    <zone type="library">
+        <line>8</line> </zone> <zone type="pagination">    <line>35</line> </zone>
+  
+<add place="superlinear">fair     coquette of Heaven,</add>
+<line>Bright wanderer<del rend="strikethrough"> having changed</del></line>
 <line>To whom alone it has been given</line>
 <line>To change and be adored for ever...</line>
 <line> Envy not this dim world, for never</line>
