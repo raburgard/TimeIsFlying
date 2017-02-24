@@ -6,12 +6,26 @@
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0078.jp2"/>
   
     <zone type="library">
-        <line>8</line> </zone> <zone type="pagination">    <line>35</line> </zone>
+        <line>8</line> </zone> 
+    <zone type="pagination">    
+        <line>35</line> </zone>
+    
+<zone type="main">
   
 <add place="superlinear">fair     coquette of Heaven,</add>
 <line>Bright wanderer<del rend="strikethrough"> having changed</del></line>
 <line>To whom alone it has been given</line>
-<line>To change and be adored for ever...</line>
+<line>To change &amp; be adored for ever......</line>
 <line> Envy not this dim world, for never</line>
-<line> But once within the <unclear reason="illegible">shadow</unclear></line>
-<line>One fair as for <unclear reason="illegible">sing no other</unclear></line>
+<line> But once within its shadow <unclear reason="illegible">grew</unclear></line>
+
+    
+<line> She <add place="superlinear"> One fair as you but<unclear reason="illegible">far more true</unclear></add>left me in the silent time</line>
+<line> When the moon had also ceased to climb</line>
+<line>The azure <del rend="strikethrough">dome</del><del rend="strikethrough"><add place="superlinear">path</add></del> of Heaven's <del rend="strikethrough">deep,</del> steep</line>
+    <line>And like and albatross asleep</line>
+    <line><del rend="strikethrough">Hover</del>Balanced on her wings of light</line>
+    <line>Hovered in the purple night___</line>
+    <line><del rend="strikethrough"> And I who sat beside her put</del></line>
+        <line>Ere she<add place="superlinear">sought her dream</add><del rend="strikethrough">went to seek her</del> nest</line>
+    
