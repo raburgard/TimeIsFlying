@@ -4,8 +4,6 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0082">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0082.jp2"/>
-</surface>    
-<surface>
 
 <zone type="main">
     <line rend="indent1"><del rend="strikethrough">The days are flying fast away</del></line>
