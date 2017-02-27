@@ -16,7 +16,7 @@
     <zone type="main">
         <line>In my <mod>
             <del rend="strikethrough">weak</del>
-            <add place="superliner">faint</add>
+            <add place="superlinear">faint</add>
             </mod> heart, I dare not <mod>
             <del rend="strikethrough">talk</del>
             </mod> speak
@@ -39,8 +39,8 @@
         
         <line><mod>
             <del rend="strikethrough">
-                <unclear reason="illegible" extent="6" unit="chars"></unclear>
-                <unclear reason="illegible" extent="4" unit="chars"></unclear>
+                <unclear reason="illegible" extent="6" unit="chars">Hy????</unclear>
+                <unclear reason="illegible" extent="4" unit="chars">sonnet</unclear>
             </del>
             </mod></line>
         
@@ -57,10 +57,11 @@
         
         <line>They <mod>
             <del rend="strikethrough">sailed for some disc</del>
-            <add place="sublinear">sailed for drink to medicine</add>
             </mod></line>
         
-        <line>Such sweet &amp; bitter pain as mine.</line>
+        <line>Such sweet<mod>
+            <add place="sublinear">sailed for drink to medicine</add>
+            </mod> &amp; bitter pain as mine.</line>
         
         <line><mod>
             <del rend="strikethrough">I saw the dark rocks</del>
