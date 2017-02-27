@@ -5,26 +5,26 @@
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0081">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0081.jp2"/>
     <zone type="main">
-    						<line> <del rend="strikethrough">left</del></line>
-    	<line> <del rend="strikethrough"> And the month the day had shown </del></line>
+    						
+    	<line> <del rend="strikethrough"> And the month the day had shown </del><mod><del rend="strikethrough">left</del></mod></line>
     	<line><del rend="strikethrough"> light </del></line>
     	<line><del rend="strikethrough"> And the breath of night </del></line>
     	<line> And the scent of the sleeping flowers </line>
     	<line> And the coldness of the hours </line>
-    	<line> Of dew, and the <del rend="strikethrough">light</del> sweet warmth of day, </line>
+    	<line> Of dew, &amp; the <del rend="strikethrough">light</del> sweet warmth of day, </line>
     	<line> Was scattered oer the twinkling bay </line>
     	<line><del rend="strikethrough"> highter </del></line>
     	<line><del rend="strikethrough"> In the dark for</del> </line>
-    	<line> And the fisher<del rend="strikethrough">man</del> with <add place="superliner"> his </add> <del rend="strikethrough">their</del> lamp </line>
+    	<line> And the fisher<del rend="strikethrough">man</del> with <mod><add place="superlinear"> his </add></mod> <del rend="strikethrough">their</del> lamp </line>
     	<line><del rend="strikethrough"> In the damp grim               damp </del> </line>
     	<line> And spear, about the low rocks damp </line>
     	<line><del rend="strikethrough"> Watching to destroy the</del></line>
     	<line> Crept, and struck the fish who came</line>
     	<line> To worship the delusive flame </line>
     	<line> <del rend="strikethrough"> Poor thing its beauty</del></line>
-    	<line>Too happy, <add place="superliner">they</add> <del rend="strikethrough"> those that</del> <add place="superliner"> whose </add>pleasure sought </line>
+    	<line>Too happy, <add place="superlinear">they</add> <del rend="strikethrough"> those that</del> <add place="superlinear"> whose </add>pleasure sought </line>
     	<line> Extinguishes all sense <add place="sublinear"><del rend="strikethrough">all sense gone</del> </add> and thought </line>
-    	<line>Of the regret <add place="subliner"> <del rend="striketrhough">all dreams are under the last one</del> </add> that pleasure </line>
+    	<line>Of the regret <add place="sublinear"> <del rend="striketrhough">all dreams are under the last one</del> </add> that pleasure </line>
     	<line><del rend="strikethrough">Destroy</del>ing life <u>not peace.</u> </line>
     	<line> Seeking </line>
     </zone>
