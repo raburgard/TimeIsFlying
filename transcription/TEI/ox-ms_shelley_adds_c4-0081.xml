@@ -6,7 +6,7 @@
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0081.jp2"/>
     <zone type="main">
     						
-    	<line> <del rend="strikethrough"> And the month the day had shown </del><mod><del rend="strikethrough"><add place="superlinear">left</add></del></mod></line>
+    	<line> <del rend="strikethrough"> And the month the day had shown <add place="superlinear">left</add></del></line>
     	<line><del rend="strikethrough"> light </del></line>
     	<line><del rend="strikethrough"> And the breath of night </del></line>
     	<line> And the scent of the sleeping flowers </line>
