@@ -94,7 +94,9 @@
         <line><mod>
             <del rend="strikethrough">
                 <del rend="strikethrough">Why</del>
-                <add place="superlinear"><del rend="strikethrough">Like when</del></add>
+                <mod>
+                    <add place="superlinear"><del rend="strikethrough">Like when</del></add>
+                </mod>
                  a thread of moonlight
                 <del rend="strikethrough">lay</del>
             </del>
