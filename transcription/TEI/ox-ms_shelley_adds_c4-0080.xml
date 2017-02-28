@@ -57,21 +57,14 @@
         
         <line>They <mod>
             <del rend="strikethrough">sailed for some disc</del>
+            <add place="sublinear">sailed for drink to medicine</add>
             </mod></line>
         
-        <line>Such sweet<mod>
-            <add place="superlinear">sailed for drink to medicine</add>
-            </mod> &amp; bitter pain as mine.</line>
+        <line>Such sweet &amp; bitter pain as mine.</line>
         
-        <line><mod>
-            <del rend="strikethrough">I saw the dark rocks</del>
-            </mod></line>
+        <line><del rend="strikethrough">I saw the dark rocks</del></line>
         
-        <line><mod>
-            <del rend="strikethrough">I watched the dark rocks 
-                <unclear reason="illegible" extent="5" unit="chars"></unclear>
-                &amp; yawn</del>
-            </mod></line>
+        <line><del rend="strikethrough">I watched the dark rocks <unclear reason="illegible" extent="5" unit="chars"></unclear> &amp; yawn</del></line>
         
         <line>And the wind that <mod>
             <del rend="strikethrough">for</del>
