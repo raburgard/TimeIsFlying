@@ -4,10 +4,11 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     ulx="0" uly="0" lrx="4896" lry="7354" xml:id="ox-ms_shelley_adds_c4-0113">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0113.jp2"/>
-    <line> <del rend="strikethrough"> An </del></line>
-    <line> <del rend="strikethrough"> Joy </del></line>
-    <line> <del rend="strikethrough"> Phantoms </del> amp& men [smudge] amp& </line>
-    <line> <del rend="strikethrough"> Finishing then </del> </line>
+    <zone type="main"> 
+        <line> <del rend="strikethrough"> An </del></line>
+        <line> <del rend="strikethrough"> Joy </del></line>
+        <line> <del rend="strikethrough"> Phantoms </del> amp& men [smudge] amp& </line>
+        <line> <del rend="strikethrough"> Finishing then </del> </line>
     <line> With <del rend="stirkethrough"> severed from everything the shapely mess </del> </line>
     <line> <del rend="stirkethrough"> Is distinct </del> </line>
     <line> 					thus, on the way </line>
@@ -17,5 +18,6 @@
     <line> Has old man joy which <add place="superliner"> wanders </add> <del rend="stirkethrough"> was </del> where I <add place="superliner"> gleam </add> idled </line>
     <line> <u> This had </u> the shapes in the other fire valley, dead </line>
     <line> The <add place="superliner"> army </add> <del rend="stirkethrough"> man </del> grew weary of the ghostly dance </line>
-    <line> And 
+        <line> And </line>
+        </zone> 
 </surface>
