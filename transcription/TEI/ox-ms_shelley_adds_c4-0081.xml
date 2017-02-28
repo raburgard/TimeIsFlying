@@ -25,7 +25,7 @@
     	<line>Too happy, <add place="superlinear">they</add> <del rend="strikethrough"> those that</del> <add place="superlinear"> whose </add>pleasure sought </line>
     	<line> Extinguishes all sense <add place="sublinear"><del rend="strikethrough">all sense gone</del> </add> and thought </line>
     	<line>Of the regret <add place="sublinear"> <del rend="striketrhough">all dreams are under the last one</del> </add> that pleasure </line>
-    	<line><del rend="strikethrough">Destroy</del>ing life <u>not peace.</u> </line>
+    	<line><del rend="strikethrough">Destroy</del>ing life <underline>not peace.</underline> </line>
     	<line> Seeking </line>
     </zone>
 </surface>	
