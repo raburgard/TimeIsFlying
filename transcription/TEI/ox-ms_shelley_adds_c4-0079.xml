@@ -14,105 +14,131 @@
 	</zone>
 		
 	<zone type="main">
-		<line>And thus<mod>
-			<del rend="strikethrough">untented with a lot</del>
-			</mod>
+		<line>
+		   And thus
+		   <del rend="strikethrough">untented with a lot</del>
 		</line>
 		
 		<line>
-			<del rend="strikethrough">Which others, who have suffered not</del>
+		   <del rend="strikethrough">Which others, who have suffered not</del>
 		</line>
 		
-		<line>And thus although she absent were
+		<line>
+		   And thus although she absent were
 		</line>
 		
 		<line><mod>
 			<del rend="strikethrough">Fancy</del>
-			<add place="superlinear">Memory</add></mod>gave me all<mod>
-			<del rend="strikethrough">other</del></mod>of her
+			<add place="superlinear">Memory</add></mod>gave me all
+			<del rend="strikethrough">other</del>of her
 		</line>
 		
 		<line>
-			<del rend="strikethrough">I dare to</del>
-		</line>
-		
-		<line><mod>
-			<unclear reason="illegible" extent="5" unit="chars"></unclear></mod>
-			<mod><del rend="strikethrough">fate</del></mod>
+		   <del rend="strikethrough">I dare to</del>
 		</line>
 		
 		<line>
-			<del rend="strikethrough">they to</del>
-		</line>
-		
-		<line>That even fancy dares to claim.__
-		</line>
-		
-		<line>
-			<del rend="strikethrough">And I was happy.<unclear reason="illegible"></unclear></del>
+		   <mod>
+		      <unclear reason="illegible" extent="5" unit="chars"></unclear>
+		      <del rend="strikethrough">fate</del>
+		   </mod>
 		</line>
 		
 		<line>
-			<del rend="strikethrough">Thus I run<unclear reason="illegible" extent="5" unit="chars"></unclear>, if the name</del>
-		<line>
-		
-		<line>
-			<del rend="strikethrough">If reason if</del>
-		</line>
-		
-		<line><add place="superlinear"><mod>
-			<del rend="strikethrough">The<unclear reason="illegible" extent="5" unit="chars"></unclear><unclear reason="illegible">?de?s</unclear>thought</del>
-		</mod></add>
+		   <del rend="strikethrough">they to</del>
 		</line>
 		
 		<line>
-			<del rend="strikethrough">Within her presence</del>
+		   That even fancy dares to claim.__
 		</line>
 		
 		<line>
-			<del rend="strikethrough">Thrond by her presence, meek &amp; dim</del>
+		   <del rend="strikethrough">And I was happy.
+		   <unclear reason="illegible">
+		   </unclear>
+		   </del>
 		</line>
 		
 		<line>
-			<del rend="strikethrough">The dance of my spirit lay</del>
-		</line>
+		   <del rend="strikethrough">Thus I run<unclear reason="illegible" extent="5" unit="chars"></unclear>, if the name</del>
+		<line>
 		
-		<line>Her presence had made weak &amp; tame
-		</line>
-		
-		<line>All passions, and
+		<line>
+		   <del rend="strikethrough">If reason if</del>
 		</line>
 		
 		<line>
-			<del rend="strikethrough">Desire has gone through &amp; no moon<unclear reason="illegible" extent="1" unit="chars"></unclear></del><mod><add place="sublinear">I lived alone,</add></mod>
-			</line>
+		   <mod>
+		      <add place="superlinear">
+		      <del rend="strikethrough">The
+		         <unclear reason="illegible" extent="5" unit="chars"></unclear>
+			 <unclear reason="illegible">?de?s</unclear>
+		      thought
+		      </del>
+		      </add>
+		   </mod>
+		</line>
+		
+		<line>
+		   <del rend="strikethrough">Within her presence</del>
+		</line>
+		
+		<line>
+		   <del rend="strikethrough">Thrond by her presence, meek &amp; dim</del>
+		</line>
+		
+		<line>
+		   <del rend="strikethrough">The dance of my spirit lay</del>
+		</line>
+		
+		<line>
+		   Her presence had made weak &amp; tame
+		</line>
+		
+		<line>
+		   All passions, and
+		</line>
+		
+		<line>
+		   <del rend="strikethrough">Desire has gone through &amp; no moon
+		      <unclear reason="illegible" extent="1" unit="chars"></unclear>
+		   </del>
+		   <add place="sublinear">I lived alone,</add>
+		</line>
 		
 		<line>
 			<del rend="strikethrough">Of pleasure, lost or dream,</del>
 		</line>
 		
-		<line>In the time which<del rend="strikethrough">was</del><mod>
-		<add place="superlinear">is</add></mod>
-		our own
-		</line>
-		
-		<line>The past &amp; future were forgot
-		</line>
-		
-		<line>As they<del rend="strikethrough">would be</del><mod>
-		<add place="superlinear">had</add>
-		</mod>been, &amp; would be, not.--
+		<line>
+		   In the time which
+		   <del rend="strikethrough">was</del>
+		   <add place="superlinear">is</add>
+		   our own
 		</line>
 		
 		<line>
-			<del rend="strikethrough">But now I desire,--I dream not</del>
+		   The past &amp; future were forgot
 		</line>
 		
-		<line>But soon, the guardian angel gone
+		<line>
+		   As they
+		     <del rend="strikethrough">would be</del>
+		     <add place="superlinear">had</add>
+		   been, &amp; would be, not.--
 		</line>
 		
-		<line>The demon reassumed his throne
-        </line>
+		<line>
+		   <del rend="strikethrough">But now I desire,--I dream not</del>
+		</line>
+		
+		<line>
+		   But soon, the guardian angel gone
+		</line>
+		
+		<line>
+		   The demon reassumed his throne
+        	</line>
 	
             </line>
 		</line>
