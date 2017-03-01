@@ -52,6 +52,24 @@
         <line rend="indent3">Then Juin <del rend="strikethrough">can <unclear reason="illegible">dew</unclear></del></line>
         
         <line rend="indent4">In this.</line>
+    </zone>
     
+    <zone type="right">
+        <!--Indent lines 4, 5, 6, and 7 to indent1-->
+        <line>Can I say <add place="superlinear">aught</add> this <unclear reason="illegible"></unclear></line>
+        
+        <line><unclear /> mask, <unclear /></line>
+        
+        <line><unclear /> to <unclear /></line>
+        
+        <line rend="indent1"><unclear /></line>
+        
+        <line rend="indent1">And <unclear />adrift <unclear /></line>
+        
+        <line rend="indent1">And <unclear />this</line>
+        
+        <!--It really feels like Percy wrote "Mand" and just put a line to make an H. Can't say I don't understand.-->
+        <line rend="indent1">Hand</line>
+        
     </zone>
 </surface>
