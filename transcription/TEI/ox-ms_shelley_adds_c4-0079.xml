@@ -6,7 +6,7 @@
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0079.jp2"/>
 	
 	<zone type="pagination">
-		<line>?5  <!--counter for render tests-->4!</line>
+		<line>?5</line>
 	</zone>
 	
 	<zone type="library">
