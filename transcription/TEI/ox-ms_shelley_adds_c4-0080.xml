@@ -53,9 +53,8 @@
         <line>As if to some Elysian star</line>
         
         <line>They <mod>
-            <del rend="strikethrough">sailed</del>
             <add place="sublinear">sailed for drink to medicine</add>
-            <del rend="strikethrough"> for some disc</del>
+            <del rend="strikethrough">sailed for some disc</del>
             </mod></line>
         
         <line>Such sweet &amp; bitter pain as mine.</line>
