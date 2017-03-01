@@ -28,7 +28,24 @@
     
     <zone type="leftColumn">
         <handShift new="pbs3" />
-        <line rend="indent3"> <unclear>Juin</unclear> is flying
+        <line rend="indent3"> <unclear>Juin</unclear> is flying</line>
+        
+        <line rend="indent3"><mod>
+                <add place="sublinear"></add>
+                <del rend="strikethrough">July</del>
+            </mod> is dying
+        </line>
+        
+        <line rend="indent3">Hope is sighing</line>
+        
+        <line rend="indent4">For <mod>
+                <add place="sublinear"></add>
+                <del rend="strikethrough"></del>
+                <add place="superlinear"><del rend="strikethrough"></del></add>
+            </mod>
+        </line>
+        
+        <line rend="indent3"></line>
     
     </zone>
 </surface>
