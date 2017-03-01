@@ -17,14 +17,11 @@
         <line>In my <mod>
             <del rend="strikethrough">weak</del>
             <add place="superlinear">faint</add>
-            </mod> heart, I dare not <mod>
-            <del rend="strikethrough">talk</del>
-            </mod> speak
+            </mod> heart, I dare not <del rend="strikethrough">talk</del> speak
         </line>
         
-        <line><mod>
-            <del rend="strikethrough">Tho</del>
-            </mod> My thoughts; but thus disturbed &amp; weak
+        <line>
+            <del rend="strikethrough">Tho</del> My thoughts; but thus disturbed &amp; weak
         </line>
         
         <line>I sat and watched the vessels glide</line>
@@ -56,8 +53,9 @@
         <line>As if to some Elysian star</line>
         
         <line>They <mod>
-            <del rend="strikethrough">sailed for some disc</del>
+            <del rend="strikethrough">sailed</del>
             <add place="sublinear">sailed for drink to medicine</add>
+            <del rend="strikethrough"> for some disc</del>
             </mod></line>
         
         <line>Such sweet &amp; bitter pain as mine.</line>
