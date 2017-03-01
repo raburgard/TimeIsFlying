@@ -28,8 +28,8 @@
 		</line>
 		
 		<line><mod>
-			<del rend="strikethrough">Fancy </del>
-			<add place="superlinear">Memory</add></mod>gave me all
+			<del rend="strikethrough">Fancy</del>
+			<add place="superlinear">Memory</add></mod>&#160;gave me all
 			<del rend="strikethrough">other</del>&#160; of her
 		</line>
 		
