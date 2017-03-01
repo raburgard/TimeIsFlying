@@ -6,7 +6,7 @@
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0079.jp2"/>
 	
 	<zone type="pagination">
-		<line>?5  <!--counter for render tests-->3!</line>
+		<line>?5  <!--counter for render tests-->4!</line>
 	</zone>
 	
 	<zone type="library">
@@ -29,7 +29,7 @@
 		
 		<line><mod>
 			<del rend="strikethrough">Fancy</del>
-			<add place="superlinear">Memory</add></mod>&#160;gave me all
+			<add place="superlinear">Memory</add></mod>gave me all
 			<del rend="strikethrough">other</del>&#160;of her
 		</line>
 		
