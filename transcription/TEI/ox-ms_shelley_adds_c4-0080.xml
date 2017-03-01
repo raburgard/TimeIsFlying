@@ -15,7 +15,7 @@
     
     <zone type="main">
         <line>In my <mod>
-            <add place="superlinear">&#009;faint</add>
+            <add place="superlinear">faint</add>
             <del rend="strikethrough">weak</del>
             </mod> heart, I dare not <del rend="strikethrough">talk</del> speak
         </line>
@@ -44,7 +44,7 @@
         <line>Like spirit winged chariots sent</line>
         
         <line>O'er some <mod>
-            <add place="superlinear">&#009;serenest</add>
+            <add place="superlinear">serenest</add>
             <del rend="strikethrough">dimmer</del>
             </mod> element</line>
         
