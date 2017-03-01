@@ -5,16 +5,30 @@
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0082">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0082.jp2"/>
 
-<zone type="main">
-    <line rend="indent1"><del rend="strikethrough">The days are flying fast away</del></line>
-    <line rend="indent2">
-        <unclear reason="illegible">
-            <del rend="strikethrough">Pleasing</del></unclear></line>
-    <line rend="indent3">The hours are <unclear reason="illegible">flying</unclear></line>
-    <line rend="indent3"> And joys are dying</line>
-    <line rend="indent3"> And hope is sighing</line>
+    <zone type="main">
+        <handShift new="pbs1" />
+        <line rend="indent1"><del rend="strikethrough">The days are flying fast away</del></line>
+        
+        <line rend="indent2">
+            <unclear reason="illegible">
+            <del rend="strikethrough">Pleasing</del></unclear>
+        </line>
     
+        <line rend="indent3">The hours are <unclear reason="illegible">flying</unclear></line>
     
+        <line rend="indent3"> And joys are dying</line>
+    
+        <line rend="indent3"> And hope is sighing</line>
+        
+        <handShift new="pbs2" />
+        <line rend="indent2">June 4.</line>
+        
+        <line rend="indent2">May 4.</line>
+    </zone>
+    
+    <zone type="leftColumn">
+        <handShift new="pbs3" />
+        <line rend="indent3"> <unclear>Juin</unclear> is flying
     
     </zone>
 </surface>
