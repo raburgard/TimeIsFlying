@@ -68,7 +68,7 @@
         
     	<line>
             <mod>
-                <del rend="strikethrough"> In the damp grim ________damp </del> 
+                <del rend="strikethrough"> In the damp grim &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; damp </del> 
             </mod>
         </line>
         
