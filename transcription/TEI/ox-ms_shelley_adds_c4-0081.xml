@@ -10,7 +10,7 @@
             <mod> 
                 <del rend="strikethrough"> And the month the day had shown 
                     <mod>
-                        <add place="superlinear">left</add> </mod>
+                        <add place="superlinear"><del rend="strikethrough"> left</del></add> </mod>
                 </del>
             </mod>
         </line>
