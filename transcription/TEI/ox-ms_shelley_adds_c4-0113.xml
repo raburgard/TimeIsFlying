@@ -25,8 +25,8 @@
             grew weary of the ghostly dance </line>
         <line> And <del rend="strikethrough"> severed </del> fell, as I have fallen by the 
             <add place="sublinear"> way side </add> </line>
-        <line> Those soonest <del rend="strikethrough"> from whose limbs the</del>
-            <add place="superlinear"> Alas, I kiss you forever </add> </line>
+        <line> Those soonest <add place="superlinear"> Alas, I kiss you forever </add> <del rend="strikethrough"> from whose limbs the</del>
+            </line>
         
     </zone>
 </surface>
