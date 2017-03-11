@@ -26,8 +26,8 @@
         <line> And <del rend="strikethrough"> severed </del> fell, as I have fallen by the 
             <add place="sublinear"> way side </add> </line>
         <line> Those soonest <add place="superlinear"> Alas, I kiss you forever </add> 
-           <mod> <del rend="strikethrough"> from whose limbs the</del> 
-               <add place="sublinear"> from whose forms most shadow </add> </mod>
+           <mod> <del rend="strikethrough"> from <add place="sublinear"> from whose forms most shadow </add> whose limbs the</del> 
+                </mod>
             </line>
         
         
