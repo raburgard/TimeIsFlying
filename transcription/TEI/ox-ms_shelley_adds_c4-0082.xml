@@ -38,7 +38,8 @@
         
         <line rend="indent3"><mod>
                 <add place="sublinear"></add>
-                <del rend="strikethrough">July</del>
+                <del rend="strikethrough">Joy</del>
+            <add place="sublinear"><unclear reason="illegible"> Occasion</unclear></add>
             </mod> is dying
         </line>
         
@@ -46,16 +47,17 @@
         
         <line rend="indent4">For <mod>
                 <add place="sublinear"></add>
-                <del rend="strikethrough"></del>
-                <add place="superlinear"><del rend="strikethrough"></del></add>
+                <del rend="strikethrough">the known</del>
+                <add place="superlinear"><del rend="strikethrough">there is</del></add>
             </mod>
         </line>
         
-        <line rend="indent3"><unclear reason="illegible" length="3" units="words"></unclear> few</line>
+        <line rend="indent3"><unclear reason="illegible" length="3" units="words"></unclear> there is</line>
+        <line> Far more to fear </line>
         
         <line rend="indent3">In this coming year</line>
         
-        <line rend="indent3">Then Juin <del rend="strikethrough">can <unclear reason="illegible">dew</unclear></del></line>
+        <line rend="indent3">Than desire <del rend="strikethrough">can <unclear reason="illegible">dare</unclear></del></line>
         
         <line rend="indent4">In this.</line>
     </zone>
