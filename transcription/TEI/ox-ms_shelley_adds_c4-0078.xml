@@ -27,7 +27,8 @@
     
     <line> When the moon had <del rend="strikethrough"> also </del> ceased to climb</line>
     
-<line>The azure <mod> <del rend="strikethrough">dome</del><del rend="strikethrough"><add place="superlinear">path</add>
+<line>The azure <mod> <del rend="strikethrough">dome</del><del rend="strikethrough"><add place="superlinear">
+    <del rend="strikethrough"> path</del></add>
     </del> of Heaven's <del rend="strikethrough">deep,</del> steep </mod></line>
     
 <line>And like an albatross asleep</line>
