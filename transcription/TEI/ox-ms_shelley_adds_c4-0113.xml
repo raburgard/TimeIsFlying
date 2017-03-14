@@ -17,7 +17,8 @@
     	<line> Mask after mask fell from the countenance </line>
     	<line> <del rend="stirkethrough"> And from of every pilgrim </del> </line>
     	<line> And from of all, and
-            <mod> <add place="superliner"> <del rend="stirkethrough"> them when </del> </add> </mod>
+            <mod>  <del rend="stirkethrough"> 
+                <add place="superliner"> them when </add> </del> </mod>
             <unclear reason="illegible">held</unclear> the day </line>
     	<line> Was old the joy which <add place="superliner"> wanders </add> 
             <del rend="stirkethrough"> was </del> where demons <add place="superliner"> gleam </add> idled </line>
